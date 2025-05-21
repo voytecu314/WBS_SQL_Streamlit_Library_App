@@ -30,3 +30,4 @@ A simple Streamlit web app to manage a small library using MySQL and stored proc
    pip install -r requirements.txt
 
 ## Visit the app on Streamlit
+https://lianaslibrary.streamlit.app/
