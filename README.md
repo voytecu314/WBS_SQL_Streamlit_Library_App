@@ -31,3 +31,5 @@ A simple Streamlit web app to manage a small library using MySQL and stored proc
 
 ## Visit the app on Streamlit
 https://lianaslibrary.streamlit.app/
+
+- feel free to add some books and a borrower ;)
