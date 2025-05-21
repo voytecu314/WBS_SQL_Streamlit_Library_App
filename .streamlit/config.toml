@@ -1,0 +1,11 @@
+[client]
+showErrorDetails = "none"
+toolbarMode = "minimal"
+
+[theme]
+base="light"
+primaryColor="#8B5E3C"
+backgroundColor="#E6D5C3"
+secondaryBackgroundColor="#D6C2B0"
+textColor="#3B2E24"
+font="sans serif"
